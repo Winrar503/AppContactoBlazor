@@ -25,7 +25,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-+uiEZphmZvxWsRXe3md8qoG+xjlBquVHYYocAswugmA=",
+      "hash": "sha256-ESRSwv18bUCMUlCd9ROhze51Ph0r4cpdaAA\/nnU\/EJo=",
       "url": "index.html"
     },
     {
@@ -37,12 +37,16 @@
       "url": "sample-data\/weather.json"
     },
     {
+      "hash": "sha256-gvHfnndfEu1tRf0rFb5988rWq7ITIotOaE8+AMbKYbc=",
+      "url": "_framework\/blazor.webassembly.js"
+    },
+    {
       "hash": "sha256-q9iihqrN2wcHsk9f8dRW8hd5GhM+kzlUBvnmmseGGDA=",
       "url": "AppContactBlazro.styles.css"
     },
     {
-      "hash": "sha256-gvHfnndfEu1tRf0rFb5988rWq7ITIotOaE8+AMbKYbc=",
-      "url": "_framework\/blazor.webassembly.js"
+      "hash": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7\/icnnYcU=",
+      "url": "_framework\/Blazored.LocalStorage.wasm"
     },
     {
       "hash": "sha256-H1yH7iBNYt\/rilvQT6qsv2frcFFOBUKBnRrGQ1AIHnI=",
@@ -121,6 +125,14 @@
       "url": "_framework\/Microsoft.Extensions.Http.wasm"
     },
     {
+      "hash": "sha256-hcJFVGS1x8m5ZeBhvyIEBqYSQKIzBLnbw77jq3TNVmA=",
+      "url": "_framework\/Microsoft.Extensions.Localization.wasm"
+    },
+    {
+      "hash": "sha256-\/cbKro\/iHTt02hewrByb6oqdeUsxxfFAyRKKr7GpBNI=",
+      "url": "_framework\/Microsoft.Extensions.Localization.Abstractions.wasm"
+    },
+    {
       "hash": "sha256-Rx+UwnmyfTtMmlYd3HWJOvYVnSSwShUKrbPvqkfxmZk=",
       "url": "_framework\/Microsoft.Extensions.Logging.wasm"
     },
@@ -147,6 +159,10 @@
     {
       "hash": "sha256-FWBbfufvNOmor0iVsxtEPG3l1VI97wMYStE1\/bHHo9w=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
+    },
+    {
+      "hash": "sha256-+6sc9t3KRXuYF8Q0j0JL08wP6j51Vkp58oNHjoHFvr0=",
+      "url": "_framework\/MudBlazor.wasm"
     },
     {
       "hash": "sha256-JqVBy6SV+3qk+IK3VJiyIDt9CsVk6b1\/ytTXmrI4mTM=",
@@ -861,17 +877,25 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-hhhnFgfHm18iVGqJX33Ldh0h+M1yE+3sx5zQ+LeI9vY=",
+      "hash": "sha256-BlnwENw51Oyt5eSR9XAn7e55nszy1n7Rku1+omXLElc=",
       "url": "_framework\/AppContactBlazro.wasm"
     },
     {
-      "hash": "sha256-bjIkc0QHvhyAeV9URbolgkuJA1cVI4VACaBsKSbeNKs=",
+      "hash": "sha256-6gfQunkRYqoQfv\/W6YG4IxWpZjJt8LaYKxayCrYxiPU=",
       "url": "_framework\/AppContactBlazro.pdb"
     },
     {
-      "hash": "sha256-MfLGtrs\/C2rHB7pO2N4Y9i0KhYL9JD5vJcm5a3A+LUU=",
+      "hash": "sha256-0qHcJROvPz\/OIDkRzYwnf\/yiwF1tX\/Sc1p9nZpLpXcA=",
       "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-H2QuhIhWAAApVk0IT\/dmvJ5l167yYqO1jogUIMXAko8=",
+      "url": "_content\/MudBlazor\/MudBlazor.min.css"
+    },
+    {
+      "hash": "sha256-HIgITptQO9vrBUjgNCpkzjy7f1PyNdPlVgp5bAUKUNg=",
+      "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "ovDrMDC\/"
+  "version": "mZiAXJmC"
 };

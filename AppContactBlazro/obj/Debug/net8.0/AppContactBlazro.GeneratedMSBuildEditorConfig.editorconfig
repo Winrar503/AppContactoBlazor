@@ -3,6 +3,9 @@ build_property.EnableAotAnalyzer =
 build_property.EnableSingleFileAnalyzer = 
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudIllegalParameters = 
 build_property.TargetFramework = net8.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -24,6 +27,22 @@ build_property._RazorSourceGeneratorDebug =
 
 [C:/Users/darwi/OneDrive/Escritorio/Universidad/C\#/AppContactBlazro/AppContactBlazro/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/darwi/OneDrive/Escritorio/Universidad/C\#/AppContactBlazro/AppContactBlazro/Pages/Categoria/Agregar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhXEFncmVnYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/darwi/OneDrive/Escritorio/Universidad/C\#/AppContactBlazro/AppContactBlazro/Pages/Categoria/Editar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhXEVkaXRhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/darwi/OneDrive/Escritorio/Universidad/C\#/AppContactBlazro/AppContactBlazro/Pages/Categoria/Eliminar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhXEVsaW1pbmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/darwi/OneDrive/Escritorio/Universidad/C\#/AppContactBlazro/AppContactBlazro/Pages/Categoria/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhXEluZGV4LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/darwi/OneDrive/Escritorio/Universidad/C\#/AppContactBlazro/AppContactBlazro/Pages/Contactos.razor]

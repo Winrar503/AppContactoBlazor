@@ -1,59 +1,59 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\obj\\Debug\\net8.0\\compressed\\t2xbrln20n.gz",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\obj\\Debug\\net8.0\\compressed\\t2xbrln20n.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppContactBlazro.styles.css",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppContactBlazro.styles.css",
       "PackagePath": "staticwebassets\\AppContactBlazro.styles.css"
     },
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\obj\\Debug\\net8.0\\service-worker-assets.js",
       "PackagePath": "staticwebassets\\service-worker-assets.js"
     },
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
       "PackagePath": "staticwebassets\\service-worker.js"
     },
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\wwwroot\\icon-512.png",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\wwwroot\\icon-512.png",
       "PackagePath": "staticwebassets\\icon-512.png"
     },
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\wwwroot\\index.html",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\wwwroot\\manifest.webmanifest",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\wwwroot\\manifest.webmanifest",
       "PackagePath": "staticwebassets\\manifest.webmanifest"
     },
     {
-      "Id": "C:\\Users\\darwi\\source\\repos\\AppContactBlazro\\AppContactBlazro\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\darwi\\OneDrive\\Escritorio\\Universidad\\C#\\AppContactBlazro\\AppContactBlazro\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
